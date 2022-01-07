@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "heading": "All"
+    },
+    {
+        "id": "2",
+        "heading": "Marketing"
+    },
+    {
+        "id": "3",
+        "heading": "Finance"
+    },
+    {
+        "id": "4",
+        "heading": "Operation"
+    },
+    {
+        "id": "5",
+        "heading": "SupplyChain"
+    },
+    {
+        "id": "6",
+        "heading": "digital"
+    },
+    {
+        "id": "7",
+        "heading": "ecommerce"
+    },
+    {
+        "id": "8",
+        "heading": "network"
+    },
+    {
+        "id": "9",
+        "heading": "hospitality"
+    },
+    {
+        "id": "10",
+        "heading": "contact"
+    },
+    {
+        "id": "11",
+        "heading": "service"
+    },
+    {
+        "id": "12",
+        "heading": "All"
+    }
+]
